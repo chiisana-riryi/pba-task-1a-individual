@@ -11,7 +11,7 @@ reviews_csv_file_template : str = os.path.join(raw_data_path, "reviews-{}-stars.
 preprocessed_data_path = "../data/preprocessed"
 
 STOPWORDS = [
-"a","about","above","after","again","against","ain","all","am","an","and","any","are",
+"a","about","above","after","again","against","ain" "ain't","all","am","an","and","any","are",
 "aren","aren't","as","at","be","because","been","before","being","below","between",
 "both","but","by","can","can't","cannot","could","couldn","couldn't","d","did","didn",
 "didn't","do","does","doesn","doesn't","doing","don","don't","down","during","each",
@@ -25,7 +25,7 @@ STOPWORDS = [
 "she'll","she's","should","should've","shouldn","shouldn't","so","some","such",
 "t","than","that","that'll","the","their","theirs","them","themselves","then",
 "there","these","they","they'd","they'll","they're","they've","this","those",
-"through","to","too","under","until","up","ve","very","was","wasn","wasn't","we",
+"through","to","too","under","until","up","'ve","'am","'s","ve","very","was","wasn","wasn't","we",
 "we'd","we'll","we're","we've","were","weren","weren't","what","what's","when",
 "when's","where","where's","which","while","who","who's","whom","why","why's",
 "will","with","won","won't","would","wouldn","wouldn't","y","you","you'd","you'll",
