@@ -3,7 +3,7 @@ import csv
 
 # constants
 app_id : str = "com.valvesoftware.android.steam.community"
-scrape_review_count : int = 2000
+scrape_review_count : int = 10000
 
 raw_data_path = "../data/raw/"
 reviews_csv_file_template : str = os.path.join(raw_data_path, "reviews-{}-stars.csv")
