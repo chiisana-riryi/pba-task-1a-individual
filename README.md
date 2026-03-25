@@ -4,4 +4,4 @@ Task 1A of the Natural Language Processing course of the Information Systems maj
 
 - Week 2/3: Data scraping and preprocessing (stopword, emoji, emoticon removal)
 
-- Week 4: IDF and BoW
+- Week 4: TF/IDF and BoW
