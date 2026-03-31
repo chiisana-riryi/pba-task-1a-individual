@@ -1,3 +1,19 @@
+from nltk import word_tokenize
+import math
+
+# Function to calculate TF for a term in a document
+def calculate_tf(term, document):
+    words = word_tokenize(document.lower())
+    return words.count(term) / len(words) if len(words) > 0 else 0
+
+# Function to calculate IDF for a term across all documents
+def calculate_idf(term, all_documents):
+    num_documents_with_term = sum(1 for doc in all_documents if term.lower() in word_tokenize(doc.lower()))
+    if num_documents_with_term > 0:
+        return math.log(len(all_documents) / num_documents_with_term)
+    else:
+        return 0
+
 paragraph_manchester = """
 Manchester City makes history by winning Club World Cup
 
