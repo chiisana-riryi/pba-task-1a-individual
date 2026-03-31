@@ -57,3 +57,21 @@ Inisiatif co-partnership dan perluasan kerja sama strategis ini diharapkan tidak
 Google News Metrotvnews.com dan Channel WhatsApp Metro TV
 
 (Eko Nordiansyah)"""
+
+# taken from https://www.reuters.com/world/us/rallies-planned-thousands-us-cities-no-kings-protest-against-trump-2026-03-28/
+paragraph_news = """
+In Minnesota, a flashpoint in Trump's crackdown on illegal immigration, a massive rally was held outside the state capitol in Saint Paul. Many held aloft posters bearing photos of Renee Good and Alex Pretti, U.S. citizens fatally shot by federal immigration officers in Minneapolis this year.
+Minnesota Governor Tim Walz, the Democratic vice presidential nominee in 2024, told the crowd that their resistance to Trump and his policies makes them "the heart and soul" of everything good about the U.S.
+"They cal us radicals," Walz said. "You're damn right we've been radicalized - radicalized by compassion, radicalized by decency, radicalized by due process, radicalized by democracy, and radicalized to do all we can to oppose authoritarianism."
+U.S. Senator Bernie Sanders of Vermont, a Trump critic who sought the Democratic presidential nomination in 2016 and 2020, also addressed the event in Minnesota. Musician Bruce Springsteen performed his song "Streets of Minneapolis" - a ballad criticizing Trump's immigration crackdown and lamenting the deaths of Good and Pretti.
+"We will not allow this country to descend into authoritarianism or oligarchy in America," said Sanders, an independent. "We, the people, will rule."
+The National Republican Congressional Committee criticized Democratic politicians and candidates for supporting the rallies.
+"These Hate America Rallies are where the far-left's most violent, deranged fantasies get a microphone and House Democrats get their marching orders," committee spokesperson Mike Marinella said in a statement.
+In New York, a crowd that police estimated at tens of thousands stretched more than 10 blocks in midtown Manhattan. Actor Robert De Niro, one of the organizers, said that no president before Trump has posed "such an existential threat to our freedoms and security."
+Holly Bemiss, 54, said she and other New York rally attendees were acting in the same spirit as her ancestors who fought in the American Revolution.
+"We fought against having kings and we fought for freedom," she said. "We're just doing it again."
+On the National Mall in Washington, the crowd chanted pro-democracy slogans and held anti-Trump signs. Outside a high-rise assisted-living center in Chevy Chase, Maryland, a group of elderly people in wheelchairs held signs encouraging passing cars to "Resist tyranny," "Honk if you want democracy" and "Dump Trump."
+Minor scuffles erupted when counterprotesters blocked streets. Dallas police eventually made several arrests.
+Trump's policies have galvanized the opposition, Dallas protester Chris Brendel said.
+"One thing I'll give Trump credit for is mobilizing the dissenters," Brendel said. "I can't stand by and be silent anymore simply because of my boys and their friends and the future."
+"""
