@@ -2,8 +2,37 @@
 
 Task 1A of the Natural Language Processing course of the Information Systems major: a sentiment analysis of English reviews of the Steam mobile app on the Google Play Store using Python 3.
 
-- Week 2/3: Data scraping and preprocessing (stopword, emoji, emoticon removal)
+## Week 2: Data scraping
 
-- Week 4: TF/IDF and BoW
+### Scraping Colab
+https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week2-3/notebooks/week-2-scraping.ipynb
 
-- Week 5: 
+## Week 3: Preprocessing (stopword, emoji, emoticon removal)
+
+### Preprocessing Colab
+https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week2-3/notebooks/week-3-preprocess.ipynb
+
+## Week 4: TF/IDF and BoW
+
+### Danantara Colab
+https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task1/task1A_danantara.ipynb
+
+### Manchester Colab
+https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task1/task1B_manchester.ipynb
+
+### News Colab
+https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task1/task1C_news.ipynb
+
+### EDA Colab
+https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task2/task2-1-eda.ipynb
+
+### Reviews Per Year Colab
+https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task2/task2-2-reviews-per-year.ipynb
+
+### BoW Colab
+https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task2/task2-3-BoW.ipynb
+
+## Week 5: Cosine Similarity
+
+### Cosine Similarity Colab
+https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week5/cosine-similarity.ipynb
