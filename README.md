@@ -13,6 +13,8 @@ https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/b
 May need to be run locally using VSCode
 https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week2-3/notebooks/week-3-preprocess.ipynb
 
+Go here if it doesn't work: https://github.com/chiisana-riryi/pba-task-1a-individual/blob/main/week2-3/notebooks/week-3-preprocess.ipynb
+
 ## Week 4: TF/IDF and BoW
 
 ### Danantara Colab
@@ -28,13 +30,19 @@ https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/b
 May need to be run locally using VSCode
 https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task2/task2-1-eda.ipynb
 
+Go here if it doesn't work: https://github.com/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task2/task2-1-eda.ipynb
+
 ### Reviews Per Year Colab
 May need to be run locally using VSCode
 https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task2/task2-2-reviews-per-year.ipynb
 
+Go here if it doesn't work: https://github.com/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task2/task2-2-reviews-per-year.ipynb
+
 ### BoW Colab
 May need to be run locally using VSCode
 https://colab.research.google.com/github/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task2/task2-3-BoW.ipynb
+
+Go here if it doesn't work: https://github.com/chiisana-riryi/pba-task-1a-individual/blob/main/week4/task2/task2-3-BoW.ipynb
 
 ## Week 5: Cosine Similarity
 
